@@ -1,0 +1,12 @@
+*.csproj
+*.meta
+*.unity
+Test/Library
+Test/Packages
+Test/ProjectSettings
+Test/Logs
+*.Logs
+Test/Temp
+Test/UserSettings
+Test/.idea
+Test/obj
